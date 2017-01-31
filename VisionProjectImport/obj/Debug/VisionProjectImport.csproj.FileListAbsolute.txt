@@ -1,0 +1,6 @@
+c:\users\joe\documents\visual studio 2012\Projects\VisionProjectImport\VisionProjectImport\bin\Debug\VisionProjectImport.exe.config
+c:\users\joe\documents\visual studio 2012\Projects\VisionProjectImport\VisionProjectImport\bin\Debug\VisionProjectImport.exe
+c:\users\joe\documents\visual studio 2012\Projects\VisionProjectImport\VisionProjectImport\bin\Debug\VisionProjectImport.pdb
+c:\users\joe\documents\visual studio 2012\Projects\VisionProjectImport\VisionProjectImport\obj\Debug\VisionProjectImport.csprojResolveAssemblyReference.cache
+c:\users\joe\documents\visual studio 2012\Projects\VisionProjectImport\VisionProjectImport\obj\Debug\VisionProjectImport.exe
+c:\users\joe\documents\visual studio 2012\Projects\VisionProjectImport\VisionProjectImport\obj\Debug\VisionProjectImport.pdb
